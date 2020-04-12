@@ -1,0 +1,11 @@
+/.idea
+*.iml
+*.jar
+*.class
+/target
+/gradle
+/*.log
+/*.log.json
+*.log
+/log
+*.gz
